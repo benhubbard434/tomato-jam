@@ -39,6 +39,7 @@ p {font-family: 'apercu_monoregular', sans-serif; font-size: 14px; color: #0A122
 a {color: #FAA916;}
 
 button {-webkit-appearance: none; background:#FAA916; border-radius: 2px; padding: 5px 8px; color: #0A122A; border: 0; font-family: 'apercu_monoregular', sans-serif; font-size: 14px; latter-spacing: -1px; cursor: pointer;}
+button:hover {background: #e3a22d;}
 
 /* Structure */
 
