@@ -39,4 +39,4 @@ p {font-family: 'apercu_monoregular', sans-serif; font-size: 14px;}
 
 /* Structure */
 
-.container {width: 640px; margin: 25px auto;}
+.container {max-width: 640px; width: 95%; margin: 25px auto;}
