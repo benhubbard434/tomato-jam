@@ -23,9 +23,19 @@ img {max-width: 100%;}
 *{box-sizing: border-box;}
 html {background: #efefef;}
 body {width: 100%; margin: 0 auto;}
-
+.clear {clear: both;}
 
 /* Styling */
 
-h1 {font-family: 'recoletablack';}
-p {font-family: 'apercu_monoregular';}
+body {background:#D8D8D8;}
+
+h1 {font-family: 'recoletablack', serif; font-size: 49px;}
+h2 {font-family: 'recoletablack', serif; font-size: 42px;}
+h3 {font-family: 'recoletablack', serif; font-size: 35px;}
+h4 {font-family: 'recoletablack', serif; font-size: 28px;}
+h5 {font-family: 'recoletablack', serif; font-size: 21px;}
+p {font-family: 'apercu_monoregular', sans-serif; font-size: 14px;}
+
+/* Structure */
+
+.container {width: 640px; margin: 25px auto;}
