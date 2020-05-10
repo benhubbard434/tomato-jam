@@ -38,7 +38,7 @@ p {font-family: 'apercu_monoregular', sans-serif; font-size: 14px; color: #0A122
 .brand {font-family: 'recoletablack', 'apercu_monoregular', serif; color: #A20202;}
 a {color: #FAA916;}
 
-button {-webkit-appearance: none; background:#FAA916; border-radius: 2px; padding: 5px 8px; color: #0A122A; border: 0; font-family: 'apercu_monoregular', sans-serif; font-size: 14px; letter-spacing: -1px; cursor: pointer;}
+button {-webkit-appearance: none; background:#FAA916; border-radius: 2px; padding: 5px 8px; color: #0A122A; border: 0; font-family: 'apercu_monoregular', sans-serif; font-size: 14px; letter-spacing: -1px; cursor: pointer; border: 1px solid transparent;}
 button:hover {background: #e3a22d;}
 
 /* Structure */
@@ -50,4 +50,4 @@ button:hover {background: #e3a22d;}
 input {border: 1px solid #0A122A;background: transparent;border-radius: 2px; padding: 5px 8px; color: #0A122A;font-family: 'apercu_monoregular', sans-serif; font-size: 14px;}
 .signup-form {padding: 28px 0;}
 .formkit-input {float: left;}
-.formkit-submit {float: right;}
+.formkit-submit {float: left; margin-left: 8px;}
