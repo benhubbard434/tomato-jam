@@ -29,12 +29,12 @@ body {width: 100%; margin: 0 auto;}
 
 body {background:#E5E7E6;}
 
-h1 {font-family: 'recoletablack', serif; font-size: 49px; color: #A20202;}
-h2 {font-family: 'recoletablack', serif; font-size: 42px; color: #A20202;}
-h3 {font-family: 'recoletablack', serif; font-size: 35px; color: #A20202;}
-h4 {font-family: 'recoletablack', serif; font-size: 28px; color: #A20202;}
-h5 {font-family: 'recoletablack', serif; font-size: 21px; color: #A20202;}
-p {font-family: 'apercu_monoregular', sans-serif; font-size: 14px; color: #0A122A;}
+h1 {font-family: 'recoletablack', serif; font-size: 49px; color: #A20202;line-height: 56px;}
+h2 {font-family: 'recoletablack', serif; font-size: 42px; color: #A20202;line-height: 49px;}
+h3 {font-family: 'recoletablack', serif; font-size: 35px; color: #A20202;line-height: 42px;}
+h4 {font-family: 'recoletablack', serif; font-size: 28px; color: #A20202;line-height: 35px;}
+h5 {font-family: 'recoletablack', serif; font-size: 21px; color: #A20202;line-height: 28px;}
+p {font-family: 'apercu_monoregular', sans-serif; font-size: 14px; color: #0A122A; line-height: 21px;}
 .brand {font-family: 'recoletablack', 'apercu_monoregular', serif; color: #A20202;}
 a {color: #FAA916;}
 
@@ -44,6 +44,7 @@ button:hover {background: #e3a22d;}
 /* Structure */
 
 .container {max-width: 640px; width: 95%; margin: 25px auto;}
+.header {padding: 25px 0; margin-bottom: }
 
 /* Forms */
 
