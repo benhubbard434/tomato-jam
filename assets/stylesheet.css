@@ -34,7 +34,7 @@ h2 {font-family: 'recoletablack', serif; font-size: 42px; color: #A20202;line-he
 h3 {font-family: 'recoletablack', serif; font-size: 35px; color: #A20202;line-height: 42px;}
 h4 {font-family: 'recoletablack', serif; font-size: 28px; color: #A20202;line-height: 35px;}
 h5 {font-family: 'recoletablack', serif; font-size: 21px; color: #A20202;line-height: 28px;}
-p {font-family: 'apercu_monoregular', sans-serif; font-size: 14px; color: #0A122A; line-height: 21px;}
+p {font-family: 'apercu_monoregular', sans-serif; font-size: 14px; color: #0A122A; line-height: 21px; margin-bottom: 7px;}
 .brand {font-family: 'recoletablack', 'apercu_monoregular', serif; color: #A20202;}
 a {color: #FAA916;}
 
